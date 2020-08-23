@@ -1,24 +1,46 @@
 * {
+    background-color: beige;
     margin: auto;
+    font-size: large;
 }
 button {
-    height: 40px;
-    width: 40px;
+    margin-top: 2px;
+    height: 60px;
+    width: 60px;
 }
 #display {
+    background-color: black;
+    color: white;
     margin-top: 10%;
-    border: 1px solid black;
-    height: 60px;
-    width: 200px;
+    border: 1px solid gray;
+    height: 90px;
+    width: 300px;
 }
 #buttons {
+    background-color: black;
     border: 1px solid black;
-    width: 180px;
+    height: 250px;
+    width: 280px;
     padding: 10px;
     text-align: center;
 }
 #displaynums {
+    font-size: x-large;
+    background-color: black;
     font-family: sans-serif;
     text-align: center;
     padding-top: 10%;
+}
+.operator {
+    background-color: orange;
+}
+.clear {
+    background-color: white;
+
+}
+.num {
+    background-color: grey;
+}
+.equals {
+    background-color: orange;
 }
