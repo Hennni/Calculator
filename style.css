@@ -1,0 +1,24 @@
+* {
+    margin: auto;
+}
+button {
+    height: 40px;
+    width: 40px;
+}
+#display {
+    margin-top: 10%;
+    border: 1px solid black;
+    height: 60px;
+    width: 200px;
+}
+#buttons {
+    border: 1px solid black;
+    width: 180px;
+    padding: 10px;
+    text-align: center;
+}
+#displaynums {
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 10%;
+}
